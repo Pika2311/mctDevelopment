@@ -105,10 +105,11 @@
                                         <li class="list-inline-item"><a href="#"><i class="mdi mdi-dribbble"></i></a></li>
                                         <li class="list-inline-item"><a href="#"><i class="mdi mdi-google-plus"></i></a></li>
                                         <li class="list-inline-item"><a href="#"><i class="mdi mdi-twitter"></i></a></li>
-                                    </ul>-->
+                                    </ul>
                                     <div class="header_btn">
                                         <a href="#" class="btn btn-outline-custom btn-rounded mt-4 mr-3">Learn More</a>
                                     </div>
+                                -->
                                 </div>
                             </div>
                         </div>
