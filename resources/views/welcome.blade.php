@@ -61,7 +61,7 @@
                             <a href="#about" class="nav-link">About</a>
                         </li>
                         <li class="nav-item">
-                            <a href="#services" class="nav-link">Services</a>
+                            <a href="#services" class="nav-link">Prestations</a>
                         </li>
 <!--
                         <li class="nav-item">
@@ -184,7 +184,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="section_title text-center">
-                            <h3>Nos <span class="font-weight-bold">Services</span></h3>
+                            <h3>Nos <span class="font-weight-bold">Prestations</span></h3>
                             <div class="vr_line mx-auto d-block"></div>
                             <p class="sec_subtitle mx-auto text-muted pt-2">Nos clients ne seront jamais livrés à eux-mêmes tant qu'ils ne possèderont pas totalement le sujet.</p>
                         </div>
