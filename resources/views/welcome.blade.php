@@ -215,7 +215,7 @@
                                 <p class="text-muted mb-0 mt-2">Un site e-commerce représente le commerce électronique: tous les produits que vous souhaitez vendre seront accessibles 24h/24, 7 jours/7.</p>
                             </div>                            
                             <div class="read_more">
-                                <a href="#" class="text-custom"><i class="pe-7s-pen"></i></a>
+                                <a href="{{ url('ecommerce')}}" class="text-custom"><i class="pe-7s-more"></i></a>
                             </div>
                         </div>
                     </div>
