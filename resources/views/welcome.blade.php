@@ -96,7 +96,7 @@
                             <div class="col-lg-12">
                                 <div class="text-white text-center">
                                     <h1 class="header_title mb-0 mt-3 text-center text-white mx-auto">MCT Development</h1>
-                                    <p class="header_subtitle text-white mx-auto mt-3 mb-0">There is never Problem, only solutions.</p>
+                                    <p class="header_subtitle text-white mx-auto mt-3 mb-0">There is never Problem, only Solutions.</p>
                                     <ul class="mb-0 list-inline text-center skill_home mt-5">
                                         <li class="list-inline-item mr-0">Living In France</li>
                                         <li class="list-inline-item mr-0">+33 613 475 906</li>
@@ -128,7 +128,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="section_title text-center">
-                            <h3><span class="font-weight-bold">A propos de</span> Moi</h3>
+                            <h3><span class="font-weight-bold">A propos de</span> Nous</h3>
                             <div class="vr_line mx-auto d-block"></div>
                             <p class="sec_subtitle mx-auto text-muted pt-2">Passionné et rigoureux, MCT Development sera toujours partant pour réaliser vos projets.</p>
                         </div>
