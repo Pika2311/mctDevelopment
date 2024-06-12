@@ -18,7 +18,12 @@ Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name
 Route::get('siteVitrine', function () {
     return view('demo.vitrine.index');
 });
-
+Route::get('backoffice', function () {
+    return view('demo.backoffice.index');
+});
+Route::get('ecommerce', function () {
+    return view('demo.ecommerce.index');
+});
 
 Route::group(['middleware' => ['auth']], function() {
     Route::resource('roles', RoleController::class);

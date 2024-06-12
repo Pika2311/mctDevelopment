@@ -204,7 +204,7 @@
                                 <p class="text-muted mb-0 mt-2">Un site vitrine présentera votre entreprise, ses compétences, ses services, sa situation géographique… Alliée à un formulaire de contact intuitif ainsi qu'à une demande de devis en ligne, le site vitrine est la solution idéale pour faire ses premiers pas sur Internet et accroître son développement commercial.</p>
                             </div>                            
                             <div class="read_more">
-                                <a href="#" class="text-custom"><i class="pe-7s-pen"></i></a>
+                                <a href="{{ url('siteVitrine')}}" class="text-custom"><i class="pe-7s-more"></i></a>
                             </div>
                         </div>
                     </div>
@@ -232,7 +232,7 @@
                                 <p class="text-muted mb-0 mt-2">Vous ne trouvez pas ce que vous souhaitez dans les CMS existant, alors nous vous proposons une solution de développement telle que vous l'auriez crée.</p>
                             </div>                            
                             <div class="read_more">
-                                <a href="#" class="text-custom"><i class="pe-7s-pen"></i></a>
+                                <a href="{{ url('backoffice')}}" class="text-custom"><i class="pe-7s-more"></i></a>
                             </div>
                         </div>
                     </div>
