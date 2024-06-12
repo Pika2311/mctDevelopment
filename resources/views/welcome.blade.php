@@ -100,7 +100,7 @@
                                     <ul class="mb-0 list-inline text-center skill_home mt-5">
                                         <li class="list-inline-item mr-0">Living In France</li>
                                         <li class="list-inline-item mr-0">+33 613 475 906</li>
-                                        <li class="list-inline-item mr-0">contact.mctdevelopment@gmail.com</li>
+                                        <li class="list-inline-item mr-0">contact@mct-development.com</li>
                                     </ul>
 <!--                                    <ul class="social_home list-unstyled text-center pt-5">
                                         <li class="list-inline-item"><a href="#"><i class="mdi mdi-facebook"></i></a></li>
@@ -261,7 +261,7 @@
                                 </div>
                                 <div class="contact_detail">
                                     <h6 class="font-weight-bold">Mail</h6>
-                                    <p class="text-muted mb-0">contact.mctdevelopment@gmail.com</p>
+                                    <p class="text-muted mb-0">contact@mct-development.com</p>
                                 </div>
                             </div>
                         </div>
