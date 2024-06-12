@@ -128,7 +128,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="section_title text-center">
-                            <h3><span class="font-weight-bold">A propos de</span> nous</h3>
+                            <h3><span class="font-weight-bold">A propos de</span> Moi</h3>
                             <div class="vr_line mx-auto d-block"></div>
                             <p class="sec_subtitle mx-auto text-muted pt-2">Passionné et rigoureux, MCT Development sera toujours partant pour réaliser vos projets.</p>
                         </div>
@@ -137,13 +137,13 @@
                 <div class="row mt-3 vertical-content">
                     <div class="col-lg-6">
                         <div class="about_content mt-3">
-                            <h6 class="mb-3">Bonjour & Bienvenu</h6>
+                            <h6 class="mb-3">Bonjour & Bienvenue</h6>
                             <h3 class="mb-3 font-weight-bold text-custom">Je suis Hoai Chinh TRAN.</h3>
                             <ul class="mb-0 list-inline about-work">
                                 <li class="list-inline-item mr-0 text-muted">Full Stack Developer</li>
                                 <li class="list-inline-item mr-0 text-muted">Volley-Ball Trainer</li>
                             </ul>
-                            <p class="text-muted mt-3">Spécialiste du développement web, application mobile et logiciel. Nous fournissons à notre clientèle une écoute particulière afin de répondre à toutes ses attentes.</p>
+                            <p class="text-muted mt-3">Spécialiste du développement web, application mobile et logiciel. Nous fournissons à notre clientèle une écoute personnalisée afin de répondre précisement à ses attentes.</p>
                             <div class="progress-bars skill-custom mt-4">
                                 <div class="clearfix">
                                     <div class="text-dark font-weight-bold float-left">Development</div>
@@ -189,7 +189,7 @@
                         <div class="section_title text-center">
                             <h3>Nos <span class="font-weight-bold">Services</span></h3>
                             <div class="vr_line mx-auto d-block"></div>
-                            <p class="sec_subtitle mx-auto text-muted pt-2">Aucun de nos projets ne sont abandonnés tant que le client n'est pas autonome dessus.</p>
+                            <p class="sec_subtitle mx-auto text-muted pt-2">Nos clients ne seront jamais livrés à eux-mêmes tant qu'ils ne possèderont pas totalement le sujet.</p>
                         </div>
                     </div>
                 </div>
@@ -201,7 +201,7 @@
                             </div>
                             <div class="services_content mt-3">
                                 <h5 class="mb-0 font-weight-bold">Site Vitrine</h5>
-                                <p class="text-muted mb-0 mt-2">Un site vitrine présentera votre entreprise, ses compétences, ses services, sa situation géographique… Allié à un formulaire de contact intuitif, une demande de devis en ligne, le site vitrine est la solution idéale pour faire ses premiers pas sur Internet et accroître son développement commercial.</p>
+                                <p class="text-muted mb-0 mt-2">Un site vitrine présentera votre entreprise, ses compétences, ses services, sa situation géographique… Alliée à un formulaire de contact intuitif ainsi qu'à une demande de devis en ligne, le site vitrine est la solution idéale pour faire ses premiers pas sur Internet et accroître son développement commercial.</p>
                             </div>                            
                             <div class="read_more">
                                 <a href="#" class="text-custom"><i class="pe-7s-pen"></i></a>
@@ -215,7 +215,7 @@
                             </div>
                             <div class="services_content mt-3">
                                 <h5 class="mb-0 font-weight-bold">Site E-commerce</h5>
-                                <p class="text-muted mb-0 mt-2">Un site e-commerce représente le commerce électronique: tout les produits que vous souhaitez vendre seront accessible 24h/24, 7 jours/7.</p>
+                                <p class="text-muted mb-0 mt-2">Un site e-commerce représente le commerce électronique: tous les produits que vous souhaitez vendre seront accessibles 24h/24, 7 jours/7.</p>
                             </div>                            
                             <div class="read_more">
                                 <a href="#" class="text-custom"><i class="pe-7s-pen"></i></a>
@@ -229,7 +229,7 @@
                             </div>
                             <div class="services_content mt-3">
                                 <h5 class="mb-0 font-weight-bold">Site sur mesure</h5>
-                                <p class="text-muted mb-0 mt-2">Vous ne trouvez pas ce que vous souhaitez dans les CMS existant, alors ne vous proposons une solution de développement tel que vous en rêvez.</p>
+                                <p class="text-muted mb-0 mt-2">Vous ne trouvez pas ce que vous souhaitez dans les CMS existant, alors nous vous proposons une solution de développement telle que vous l'auriez crée.</p>
                             </div>                            
                             <div class="read_more">
                                 <a href="#" class="text-custom"><i class="pe-7s-pen"></i></a>
