@@ -45,7 +45,7 @@
         <nav class="navbar navbar-expand-lg fixed-top custom-nav sticky">
             <div class="container">
                 <!-- LOGO -->
-                <a class="logo navbar-brand" href="index-2.html">
+                <a class="logo navbar-brand" href="{{ url('/') }}">
                     <img src="{{ url('images/logo-web-transparent.png') }}" alt="" class="img-fluid logo-light"> 
                     <img src="{{ url('images/logo-web-transparent.png') }}" alt="" class="img-fluid logo-dark">
                 </a>
@@ -55,10 +55,10 @@
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <ul class="navbar-nav ml-auto navbar-center" id="mySidenav">
                         <li class="nav-item active">
-                            <a href="#home" class="nav-link">Home</a>
+                            <a href="#home" class="nav-link">Accueil</a>
                         </li>
                         <li class="nav-item">
-                            <a href="#about" class="nav-link">About</a>
+                            <a href="#about" class="nav-link">A propos</a>
                         </li>
                         <li class="nav-item">
                             <a href="#services" class="nav-link">Prestations</a>
