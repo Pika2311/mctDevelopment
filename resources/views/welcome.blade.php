@@ -58,9 +58,6 @@
                             <a href="#home" class="nav-link">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a href="{{ url('siteVitrine') }}" class="nav-link">Site Demo</a>
-                        </li>
-                        <li class="nav-item">
                             <a href="#about" class="nav-link">About</a>
                         </li>
                         <li class="nav-item">
